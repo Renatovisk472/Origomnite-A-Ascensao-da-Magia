@@ -37,6 +37,10 @@ O projeto foi desenvolvido ao longo de seis meses, permitindo aos membros do gru
 </div>
 
 <div align="center">
+  <img src="https://github.com/Renatovisk472/Origomnite-A-Ascensao-da-Magia/blob/main/Junin_Personagem001.png?raw=true" width="600">
+</div>
+
+<div align="center">
   <img src="https://drive.google.com/uc?export=view&id=1yB_n637dmiT6ESPQMGyCHkkkV5Vvlq7D" width="600">
 </div>
 
